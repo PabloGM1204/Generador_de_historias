@@ -13,6 +13,14 @@ El modelo esta alojado en un servidor en local usando **text-generarion-webui**.
 ## Ejemplos usando **Qwen_Qwen2.5-1.5B-Instruct**:
 
 ¡Bienvenido al generador de historias!
+
+---Selecciona un modelo:---
+1. EleutherAI_gpt-j-6b
+2. EleutherAI_gpt-neo-1.3B
+3. Qwen_Qwen2.5-1.5B-Instruct
+Introduce el número del modelo: 2
+Modelo Qwen_Qwen2.5-1.5B-Instruct cargado exitosamente.
+
 ¿Quieres generar una historia? (Presiona Enter para empezar o escribe 'No' para salir):
 Nombre del personaje principal: Paco
 Nombre del personaje secundario: Leon
@@ -39,6 +47,14 @@ El humano original es Paco, un luchador, hábil y astuto. El humano original es 
 
 ¡Bienvenido al generador de historias!
 ¿Quieres generar una historia? (Presiona Enter para empezar o escribe 'No' para salir):
+
+---Selecciona un modelo:---
+1. EleutherAI_gpt-j-6b
+2. EleutherAI_gpt-neo-1.3B
+3. Qwen_Qwen2.5-1.5B-Instruct
+Introduce el número del modelo: 2
+Modelo EleutherAI_gpt-neo-1.3B cargado exitosamente.
+
 Nombre del personaje principal: Paco
 Nombre del personaje secundario: Leon
 Lugar donde transcurre el relato: Londres
@@ -68,8 +84,6 @@ Paco, el de los 10 millones de dólares.
 Paco, el de los 500 millones de dólares.
 
 Paco
-¡Bienvenido al generador de historias!
-
 
 # Conclusión:
 
